@@ -1,6 +1,6 @@
-- 👋 Hi, I’m Thuan Nguyen
+- 👋 Hi, I’m Thuan Pham
 - 👀 I’m interested in networking and developing
-- 🌱 I’m currently learning computer science
+- 🌱 I’m currently a computer science student
 - 💞️ I’m looking to collaborate on any programming project
 - 📫 My personal email is phthuan07@gmail.com
 
